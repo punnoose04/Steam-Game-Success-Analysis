@@ -6,7 +6,8 @@ The goal of this project is to identify patterns in game profitability and bette
 
 ## Dashboard Preview
 
-<img width="1599" height="1194" alt="Screenshot 2026-07-19 004842" src="https://github.com/user-attachments/assets/0d1090ce-2666-464a-b842-f2d2ddbd0bf0" />
+<img width="1603" height="1206" alt="Screenshot 2026-07-19 010803" src="https://github.com/user-attachments/assets/d1863590-c686-4d79-ab18-f22a039be57d" />
+
 
 
 ## Business Questions
