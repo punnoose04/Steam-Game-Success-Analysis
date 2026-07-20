@@ -1,38 +1,39 @@
-# Steam Game Market Analysis Dashboard
+# Steam Game Success Analysis
 
-An end-to-end business intelligence project that analyzes Steam game pricing, genres, review scores, ownership estimates, and estimated revenue. The project uses PostgreSQL and SQL to organize, validate, and analyze the data, while Tableau is used to present the results through an interactive dashboard.
+This project examines what makes a Steam game commercially successful by analyzing the relationship between **genre, price, review score, player ownership, and estimated revenue**. Rather than only identifying which games earned the most, the analysis focuses on the business decisions behind that performance: what type of game is most likely to succeed, what price range creates the strongest market opportunity, and whether high reviews or broad player reach have a greater effect on revenue.
 
-The goal of this project is to identify patterns in game profitability and better understand how factors such as price, genre, and review score relate to estimated revenue.
+The project combines **PostgreSQL, SQL, Tableau, and Excel** to create an end-to-end business intelligence workflow. Steam game data was cleaned and organized into a relational PostgreSQL database, while SQL views were created to calculate revenue estimates, genre profitability, pricing segments, dashboard KPIs, and data-quality checks. Tableau was then connected to the database to build an interactive dashboard that allows users to compare games and explore market segments
+
+The main goal of the analysis is to answer a practical question:
+
+> **What combination of genre, price, player reception, and market reach gives a Steam game the best chance of commercial success?**
+
+The findings suggest that success is driven most strongly by attracting a large player base, but genre and pricing still play an important role. Within this dataset, **Action games showed the strongest average revenue performance**, while games priced in the **mid-range market, particularly around $29.99, showed the strongest overall commercial opportunity**. Review scores helped distinguish well-received games, but high ratings alone did not guarantee high revenue without broad ownership and market reach.
+
+Because official sales and revenue figures are not publicly available for every Steam title, this project uses ownership and pricing data to produce estimated revenue ranges. These figures should be interpreted as analytical estimates rather than official publisher-reported results.
 
 ## Dashboard Preview
 
 <img width="1603" height="1206" alt="Screenshot 2026-07-19 010803" src="https://github.com/user-attachments/assets/d1863590-c686-4d79-ab18-f22a039be57d" />
 
 
-
 ## Business Questions
 
-- What type of game offers the strongest opportunity for commercial success?
-- Which genre generates the highest average estimated revenue per game?
-- What price range gives a game the best chance of succeeding?
-- Does a higher review score lead to higher revenue?
-- Is it more profitable to charge a premium price or attract more players?
-- Which games present the greatest financial opportunity and risk?
+- Which genres generate the highest average estimated revenue per game?
+- What price ranges are associated with stronger commercial performance?
+- How closely are review scores related to estimated revenue?
+- Does broad player ownership matter more than charging a higher price?
+- Which games combine strong revenue potential with the greatest estimate uncertainty?
+- How do game characteristics differ across high- and low-revenue market segments?
 
 ## Key Findings
 
-- The strongest opportunity in this dataset is an **Action game priced near $29.99**. Action games produced the highest average estimated revenue, while the $20–$39.99 price range had the strongest overall success rate.
-
-- **Action was the most commercially promising genre**, generating approximately **$115.8 million in average estimated revenue per game**. This makes it the strongest genre choice for a developer focused primarily on revenue potential.
-
-- The most effective price range was **$20–$39.99**, with approximately **88% of games in this range meeting the project’s commercial-success criteria**. This suggests that a mid-range price is more effective than pricing a game extremely low or positioning it as a premium release.
-
-- A high review score improves a game’s chances of success, but it does not guarantee strong revenue. Several highly rated games earned less than games with broader ownership, showing that positive reception must be combined with market reach.
-
-- **Player ownership was more important than charging a high price.** Games with large audiences consistently produced stronger estimated revenue, meaning that attracting more players is generally more valuable than maximizing the price paid by each customer.
-
-- Games with the highest revenue estimates also had the widest confidence ranges. These titles offer the greatest potential returns, but their estimates carry more uncertainty because small changes in ownership assumptions produce large changes in projected revenue.
-
+- Action games produced the highest average estimated revenue among the genres included in the analysis.
+- Games in the mid-price range generally performed more consistently than games at the lowest and highest price points.
+- Review score had a positive relationship with performance, but highly rated games did not always generate high revenue.
+- Player ownership was the strongest practical driver of estimated revenue, suggesting that market reach matters more than maximizing the price paid by each customer.
+- High-revenue games also showed wider confidence ranges because small changes in ownership assumptions created larger changes in estimated revenue.
+- Commercial performance was concentrated among a relatively small number of standout titles rather than being evenly distributed across the market.
 ## Technologies Used
 
 - PostgreSQL
