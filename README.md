@@ -14,7 +14,7 @@ Because official sales and revenue figures are not publicly available for every 
 
 ## Dashboard Preview
 
-<img width="1603" height="1206" alt="Screenshot 2026-07-19 010803" src="https://github.com/user-attachments/assets/d1863590-c686-4d79-ab18-f22a039be57d" />
+[![Steam Game Success Analysis Dashboard](https://github.com/user-attachments/assets/d1863590-c686-4d79-ab18-f22a039be57d)](https://public.tableau.com/views/SteamGameSuccessAnalysis/Dashboard2)
 
 
 ## Business Questions
@@ -42,3 +42,6 @@ Because official sales and revenue figures are not publicly available for every 
 - Microsoft Excel
 - GitHub
 
+## Interactive Dashboard
+
+[View the interactive Steam Game Success Analysis dashboard on Tableau Public](https://public.tableau.com/views/SteamGameSuccessAnalysis/Dashboard2)
