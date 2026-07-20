@@ -1,0 +1,221 @@
+game_key,app_id,title,genre,genre_count_observed,genre_weight_observed,source_rank,attributed_revenue_base,inclusive_revenue_base,commercial_success_flag,source_url,observed_price_usd,owners_range_observed,score_percent_observed,owners_midpoint
+b29cd759bf7b,,BioShock,Action,2,0.5,1,5239500,10479000,1,https://steamspy.com/genre/Action,4.99,"2,000,000 .. 5,000,000",0.96,3500000
+167ef6f6b881,,Half-Life,Action,1,1,2,89910000,89910000,1,https://steamspy.com/genre/Action,9.99,"10,000,000 .. 20,000,000",0.96,15000000
+66c0b7fc07b9,,Half-Life 2,Action,1,1,3,89910000,89910000,1,https://steamspy.com/genre/Action,9.99,"10,000,000 .. 20,000,000",0.96,15000000
+c195b77515fa,,Grand Theft Auto V Legacy,Action,2,0.5,4,0,,,https://steamspy.com/genre/Action,,"50,000,000 .. 100,000,000",0.96,75000000
+f698400b8814,,Portal 2,Action,2,0.5,5,29970,59940,0,https://steamspy.com/genre/Action,9.99,"0 .. 20,000",0.95,10000
+50bb6c32429f,,Quake,Action,1,1,6,8991000,8991000,1,https://steamspy.com/genre/Action,9.99,"1,000,000 .. 2,000,000",0.94,1500000
+013cd2707e4b,,Grand Theft Auto: Vice City,Action,1,1,7,0,,,https://steamspy.com/genre/Action,,"1,000,000 .. 2,000,000",0.94,1500000
+4a2be44aeabe,,Hades II,Action,3,0.3333333333333333,8,20993000,62979000,1,https://steamspy.com/genre/Action,29.99,"2,000,000 .. 5,000,000",0.94,3500000
+41f66249ffc7,,ELDEN RING,Action,2,0.5,9,629895000,1259790000,1,https://steamspy.com/genre/Action,59.99,"20,000,000 .. 50,000,000",0.94,35000000
+7f2f35dbcfbc,,BioShock Infinite,Action,1,1,10,44940,44940,0,https://steamspy.com/genre/Action,7.49,"0 .. 20,000",0.94,10000
+12b38fe2c8ca,,Sektori,Action,1,1,11,89940,89940,0,https://steamspy.com/genre/Action,14.99,"0 .. 20,000",0.93,10000
+2cc718eb3b30,,Unreal Tournament 2004: Editor's Choice Edition,Action,1,1,12,0,,,https://steamspy.com/genre/Action,,"1,000,000 .. 2,000,000",0.93,1500000
+4448a0478da5,,Company of Heroes - Legacy Edition,Action,2,0.5,13,38839500,77679000,1,https://steamspy.com/genre/Action,36.99,"2,000,000 .. 5,000,000",0.93,3500000
+73facf214d6a,,Grand Theft Auto III,Action,1,1,14,0,,,https://steamspy.com/genre/Action,,"2,000,000 .. 5,000,000",0.93,3500000
+6ba4af358440,,Company of Heroes,Action,1,1,15,17990999.999999996,17990999.999999996,1,https://steamspy.com/genre/Action,19.99,"1,000,000 .. 2,000,000",0.93,1500000
+8d5dbb710285,,Grand Theft Auto: San Andreas,Action,1,1,16,0,,,https://steamspy.com/genre/Action,,"2,000,000 .. 5,000,000",0.93,3500000
+9e5dc0fc17c9,,Half-Life: Alyx,Action,2,0.5,17,62989500,125979000,1,https://steamspy.com/genre/Action,59.99,"2,000,000 .. 5,000,000",0.93,3500000
+2b7e087cb42b,,God of War,Action,3,0.3333333333333333,18,74985000,224955000,1,https://steamspy.com/genre/Action,49.99,"5,000,000 .. 10,000,000",0.93,7500000
+3cc262dce7e3,,Hades,Action,3,0.3333333333333333,19,37484999.99999999,112454999.99999999,1,https://steamspy.com/genre/Action,24.99,"5,000,000 .. 10,000,000",0.93,7500000
+5d016f406ae9,,Baldur's Gate 3,Adventure,3,0.3333333333333333,1,314930000,944790000,1,https://steamspy.com/genre/Adventure,44.99,"20,000,000 .. 50,000,000",0.96,35000000
+c195b77515fa,,Grand Theft Auto V Legacy,Adventure,2,0.5,2,0,,,https://steamspy.com/genre/Adventure,,"50,000,000 .. 100,000,000",0.96,75000000
+f698400b8814,,Portal 2,Adventure,2,0.5,3,29970,59940,0,https://steamspy.com/genre/Adventure,9.99,"0 .. 20,000",0.95,10000
+eb4f6d95d13b,,Divinity: Original Sin - Enhanced Edition,Adventure,4,0.25,4,8997750,35991000,1,https://steamspy.com/genre/Adventure,39.99,"1,000,000 .. 2,000,000",0.94,1500000
+9e5dc0fc17c9,,Half-Life: Alyx,Adventure,2,0.5,5,62989500,125979000,1,https://steamspy.com/genre/Adventure,59.99,"2,000,000 .. 5,000,000",0.93,3500000
+2b7e087cb42b,,God of War,Adventure,3,0.3333333333333333,6,74985000,224955000,1,https://steamspy.com/genre/Adventure,49.99,"5,000,000 .. 10,000,000",0.93,7500000
+6e741f31b6aa,,Red Dead Redemption 2,Adventure,1,1,7,134910000,134910000,1,https://steamspy.com/genre/Adventure,14.99,"10,000,000 .. 20,000,000",0.93,15000000
+9d6f08a979a3,,Divinity: Original Sin 2 - Definitive Edition,Adventure,2,0.5,8,134970,269940,0,https://steamspy.com/genre/Adventure,44.99,"0 .. 20,000",0.93,10000
+5b39a7c463e3,,Resident Evil Requiem,Adventure,1,1,9,419939.99999999994,419939.99999999994,0,https://steamspy.com/genre/Adventure,69.99,"0 .. 20,000",0.92,10000
+559989f38173,,Blue Prince,Adventure,3,0.3333333333333333,10,1259299.9999999998,3777899.9999999995,1,https://steamspy.com/genre/Adventure,17.99,"200,000 .. 500,000",0.92,350000
+6b19cb3a7fe1,,Okami HD,Adventure,1,1,11,4495500,4495500,1,https://steamspy.com/genre/Adventure,9.99,"500,000 .. 1,000,000",0.92,750000
+c65341c0d7f2,,Metaphor: ReFantazio,Adventure,1,1,12,62990999.99999999,62990999.99999999,1,https://steamspy.com/genre/Adventure,69.99,"1,000,000 .. 2,000,000",0.92,1500000
+4e796592e06c,,Street Fighter 6,Adventure,1,1,13,83979000,83979000,1,https://steamspy.com/genre/Adventure,39.99,"2,000,000 .. 5,000,000",0.92,3500000
+80f6c2cf3190,,UFO 50,Adventure,4,0.25,14,562274.9999999999,2249099.9999999995,1,https://steamspy.com/genre/Adventure,24.99,"100,000 .. 200,000",0.91,150000
+90f9c505c334,,Caves of Qud,Adventure,4,0.25,15,1574475,6297900,1,https://steamspy.com/genre/Adventure,29.99,"200,000 .. 500,000",0.91,350000
+15e7be4d53ae,,Mark of the Ninja,Adventure,2,0.5,16,2245500,4491000,1,https://steamspy.com/genre/Adventure,4.99,"1,000,000 .. 2,000,000",0.91,1500000
+1db669c01ded,,Batman: Arkham Asylum GOTY Edition,Adventure,1,1,17,899549.9999999999,899549.9999999999,0,https://steamspy.com/genre/Adventure,19.99,"50,000 .. 100,000",0.91,75000
+559371a57f1f,,Batman: Arkham City - Game of the Year Edition,Adventure,1,1,18,41978999.99999999,41978999.99999999,1,https://steamspy.com/genre/Adventure,19.99,"2,000,000 .. 5,000,000",0.91,3500000
+c77582dfec22,,Dishonored,Adventure,1,1,19,20979000,20979000,1,https://steamspy.com/genre/Adventure,9.99,"2,000,000 .. 5,000,000",0.91,3500000
+8fa20336a6f6,,METAL GEAR SOLID V: THE PHANTOM PAIN,Adventure,1,1,20,37778999.99999999,37778999.99999999,1,https://steamspy.com/genre/Adventure,17.99,"2,000,000 .. 5,000,000",0.91,3500000
+e1d80bb6fba0,,Resident Evil 4,Adventure,1,1,21,179955000,179955000,1,https://steamspy.com/genre/Adventure,39.99,"5,000,000 .. 10,000,000",0.91,7500000
+7124818ef795,,Satisfactory,Adventure,3,0.3333333333333333,22,83969999.99999997,251909999.99999994,1,https://steamspy.com/genre/Adventure,27.99,"10,000,000 .. 20,000,000",0.91,15000000
+fcd9a9090ca8,,Mission: It's Complicated,Adventure,2,0.5,23,0,0,0,https://steamspy.com/genre/Adventure,0,"0 .. 20,000",0.91,10000
+023e7df320d9,,The Longest Journey,Adventure,1,1,24,2097900,2097900,1,https://steamspy.com/genre/Adventure,9.99,"200,000 .. 500,000",0.91,350000
+223a4adaeebd,,Batman: Arkham City,Adventure,1,1,25,179550,179550,0,https://steamspy.com/genre/Adventure,3.99,"50,000 .. 100,000",0.91,75000
+eb4f6d95d13b,,Divinity: Original Sin - Enhanced Edition,Indie,4,0.25,1,8997750,35991000,1,https://steamspy.com/genre/Indie,39.99,"1,000,000 .. 2,000,000",0.94,1500000
+4a2be44aeabe,,Hades II,Indie,3,0.3333333333333333,2,20993000,62979000,1,https://steamspy.com/genre/Indie,29.99,"2,000,000 .. 5,000,000",0.94,3500000
+933241e31f38,,Cobalt Core,Indie,2,0.5,3,899549.9999999999,1799099.9999999998,1,https://steamspy.com/genre/Indie,19.99,"100,000 .. 200,000",0.94,150000
+4a56bafad301,,Tetris Effect: Connected,Indie,1,1,4,17995500,17995500,1,https://steamspy.com/genre/Indie,39.99,"500,000 .. 1,000,000",0.93,750000
+60a4454144da,,Dwarf Fortress,Indie,2,0.5,5,31489500,62979000,1,https://steamspy.com/genre/Indie,29.99,"2,000,000 .. 5,000,000",0.93,3500000
+71744f54654b,,Beat Saber,Indie,1,1,6,62979000,62979000,1,https://steamspy.com/genre/Indie,29.99,"2,000,000 .. 5,000,000",0.93,3500000
+3cc262dce7e3,,Hades,Indie,3,0.3333333333333333,7,37484999.99999999,112454999.99999999,1,https://steamspy.com/genre/Indie,6.24,"5,000,000 .. 10,000,000",0.93,7500000
+0e5c0be038be,,Undertale,Indie,1,1,8,11205000,11205000,1,https://steamspy.com/genre/Indie,2.49,"5,000,000 .. 10,000,000",0.92,7500000
+b1165a838c4e,,Out of the Park Baseball 17,Indie,4,0.25,9,0,,,https://steamspy.com/genre/Indie,,"50,000 .. 100,000",0.92,75000
+5f2c754f573b,,Galactic Civilizations II: Ultimate Edition,Indie,2,0.5,10,2247750,4495500,1,https://steamspy.com/genre/Indie,4.99,"500,000 .. 1,000,000",0.92,750000
+559989f38173,,Blue Prince,Indie,3,0.3333333333333333,11,1259299.9999999998,3777899.9999999995,1,https://steamspy.com/genre/Indie,17.99,"200,000 .. 500,000",0.92,350000
+abace6eae675,,BZZZT,Indie,1,1,12,323100,323100,0,https://steamspy.com/genre/Indie,3.59,"100,000 .. 200,000",0.91,150000
+2c373b6b0af8,,Tumblestone,Indie,2,0.5,13,280800,561600,0,https://steamspy.com/genre/Indie,6.24,"100,000 .. 200,000",0.91,150000
+c541207bce7a,,I Was a Teenage Exocolonist,Indie,2,0.5,14,2623949.9999999995,5247899.999999999,1,https://steamspy.com/genre/Indie,12.49,"200,000 .. 500,000",0.91,350000
+80f6c2cf3190,,UFO 50,Indie,4,0.25,15,562274.9999999999,2249099.9999999995,1,https://steamspy.com/genre/Indie,17.49,"100,000 .. 200,000",0.91,150000
+30808097eaa2,,Chained Echoes,Indie,2,0.5,16,2623949.9999999995,5247899.999999999,1,https://steamspy.com/genre/Indie,9.99,"200,000 .. 500,000",0.91,350000
+90f9c505c334,,Caves of Qud,Indie,4,0.25,17,1574475,6297900,1,https://steamspy.com/genre/Indie,23.99,"200,000 .. 500,000",0.91,350000
+128b3e7ef896,,FEZ,Indie,1,1,18,8991000,8991000,1,https://steamspy.com/genre/Indie,9.99,"1,000,000 .. 2,000,000",0.91,1500000
+15e7be4d53ae,,Mark of the Ninja,Indie,2,0.5,19,2245500,4491000,1,https://steamspy.com/genre/Indie,4.99,"1,000,000 .. 2,000,000",0.91,1500000
+7e1d9143d6e2,,Spelunky 2,Indie,1,1,20,6291000,6291000,1,https://steamspy.com/genre/Indie,6.99,"1,000,000 .. 2,000,000",0.91,1500000
+7124818ef795,,Satisfactory,Indie,3,0.3333333333333333,21,83969999.99999997,251909999.99999994,1,https://steamspy.com/genre/Indie,27.99,"10,000,000 .. 20,000,000",0.91,15000000
+fcd9a9090ca8,,Mission: It's Complicated,Indie,2,0.5,22,0,0,0,https://steamspy.com/genre/Indie,0,"0 .. 20,000",0.91,10000
+c94981f7a947,,VIDEOVERSE,Indie,2,0.5,23,38970,77940,0,https://steamspy.com/genre/Indie,6.49,"0 .. 20,000",0.9,10000
+f01cf2770dde,,Tadpole Treble,Indie,1,1,24,104790.00000000001,104790.00000000001,0,https://steamspy.com/genre/Indie,4.99,"20,000 .. 50,000",0.9,35000
+276c4c175cb5,,OPUS: Echo of Starsong,Indie,1,1,25,2097900,2097900,1,https://steamspy.com/genre/Indie,9.99,"200,000 .. 500,000",0.9,350000
+26e3100697cf,,Braid,Indie,2,0.5,26,6745500,13491000,1,https://steamspy.com/genre/Indie,14.99,"1,000,000 .. 2,000,000",0.9,1500000
+07e675e3188c,,Spelunky,Indie,1,1,27,3366000.0000000005,3366000.0000000005,1,https://steamspy.com/genre/Indie,3.74,"1,000,000 .. 2,000,000",0.9,1500000
+82d7cb86bb3b,,Into the Breach,Indie,4,0.25,28,3372750,13491000,1,https://steamspy.com/genre/Indie,4.49,"1,000,000 .. 2,000,000",0.9,1500000
+e8500ffb2582,,ANIMAL WELL,Indie,1,1,29,3672899.999999999,3672899.999999999,1,https://steamspy.com/genre/Indie,17.49,"200,000 .. 500,000",0.9,350000
+13a4a14f384a,,Slay the Princess - The Pristine Cut,Indie,3,0.3333333333333333,30,2698499.9999999995,8095499.999999999,1,https://steamspy.com/genre/Indie,8.99,"500,000 .. 1,000,000",0.9,750000
+13e1b29505c4,,Brothers - A Tale of Two Sons,Indie,1,1,31,13491000,13491000,1,https://steamspy.com/genre/Indie,14.99,"1,000,000 .. 2,000,000",0.9,1500000
+1d16e1ba9c28,,Balatro,Indie,2,0.5,32,15739500,31479000,1,https://steamspy.com/genre/Indie,11.99,"2,000,000 .. 5,000,000",0.9,3500000
+dff6ee721b78,,Factorio,Indie,3,0.3333333333333333,33,52500000,157500000,1,https://steamspy.com/genre/Indie,35,"5,000,000 .. 10,000,000",0.9,7500000
+84c9406adee8,,Disco Elysium - The Final Cut,RPG,1,1,1,239940,239940,0,https://steamspy.com/genre/RPG,39.99,"0 .. 20,000",0.97,10000
+b29cd759bf7b,,BioShock,RPG,2,0.5,2,5239500,10479000,1,https://steamspy.com/genre/RPG,4.99,"2,000,000 .. 5,000,000",0.96,3500000
+5d016f406ae9,,Baldur's Gate 3,RPG,3,0.3333333333333333,3,314930000,944790000,1,https://steamspy.com/genre/RPG,44.99,"20,000,000 .. 50,000,000",0.96,35000000
+2e901874a837,,Persona 5 Royal,RPG,1,1,4,359940,359940,0,https://steamspy.com/genre/RPG,59.99,"0 .. 20,000",0.95,10000
+81a2ea536ac8,,Mass Effect 2 (2010) Edition,RPG,1,1,5,179940,179940,0,https://steamspy.com/genre/RPG,29.99,"0 .. 20,000",0.94,10000
+4171cb5a7936,,Mass Effect 2 (2010 Edition),RPG,1,1,6,0,,,https://steamspy.com/genre/RPG,,"1,000,000 .. 2,000,000",0.94,1500000
+eb4f6d95d13b,,Divinity: Original Sin - Enhanced Edition,RPG,4,0.25,7,8997750,35991000,1,https://steamspy.com/genre/RPG,39.99,"1,000,000 .. 2,000,000",0.94,1500000
+4a1e938ad4dd,,The Elder Scrolls IV: Oblivion GOTY Edition,RPG,1,1,8,31479000,31479000,1,https://steamspy.com/genre/RPG,14.99,"2,000,000 .. 5,000,000",0.94,3500000
+4a2be44aeabe,,Hades II,RPG,3,0.3333333333333333,9,20993000,62979000,1,https://steamspy.com/genre/RPG,29.99,"2,000,000 .. 5,000,000",0.94,3500000
+ab219e16ab35,,The Elder Scrolls V: Skyrim,RPG,1,1,10,89954999.99999999,89954999.99999999,1,https://steamspy.com/genre/RPG,19.99,"5,000,000 .. 10,000,000",0.94,7500000
+41f66249ffc7,,ELDEN RING,RPG,2,0.5,11,629895000,1259790000,1,https://steamspy.com/genre/RPG,59.99,"20,000,000 .. 50,000,000",0.94,35000000
+2b7e087cb42b,,God of War,RPG,3,0.3333333333333333,12,74985000,224955000,1,https://steamspy.com/genre/RPG,49.99,"5,000,000 .. 10,000,000",0.93,7500000
+3cc262dce7e3,,Hades,RPG,3,0.3333333333333333,13,37484999.99999999,112454999.99999999,1,https://steamspy.com/genre/RPG,24.99,"5,000,000 .. 10,000,000",0.93,7500000
+80f6c2cf3190,,UFO 50,RPG,4,0.25,21,562274.9999999999,2249099.9999999995,1,https://steamspy.com/genre/RPG,24.99,"100,000 .. 200,000",0.91,150000
+30808097eaa2,,Chained Echoes,RPG,2,0.5,22,2623949.9999999995,5247899.999999999,1,https://steamspy.com/genre/RPG,24.99,"200,000 .. 500,000",0.91,350000
+695cd1a3f9e7,,Dragon Age: Origins,RPG,1,1,23,13495500,13495500,1,https://steamspy.com/genre/RPG,29.99,"500,000 .. 1,000,000",0.91,750000
+90f9c505c334,,Caves of Qud,RPG,4,0.25,24,1574475,6297900,1,https://steamspy.com/genre/RPG,29.99,"200,000 .. 500,000",0.91,350000
+29416f5449da,,Deus Ex: Human Revolution - Director's Cut,RPG,1,1,25,119939.99999999999,119939.99999999999,0,https://steamspy.com/genre/RPG,19.99,"0 .. 20,000",0.91,10000
+a6c74d6dd672,,Fallout 3,RPG,1,1,26,8991000,8991000,1,https://steamspy.com/genre/RPG,9.99,"1,000,000 .. 2,000,000",0.91,1500000
+b03c45c248f5,,Dragon Age: Origins - Ultimate Edition,RPG,1,1,27,26991000,26991000,1,https://steamspy.com/genre/RPG,29.99,"1,000,000 .. 2,000,000",0.91,1500000
+51ee226f5524,,DARK SOULS II,RPG,1,1,28,17995500,17995500,1,https://steamspy.com/genre/RPG,39.99,"500,000 .. 1,000,000",0.91,750000
+444521b1358c,,Fallout 3: Game of the Year Edition,RPG,1,1,29,13839000,13839000,1,https://steamspy.com/genre/RPG,6.59,"2,000,000 .. 5,000,000",0.91,3500000
+0a3360d1fa59,,Clair Obscur: Expedition 33,RPG,1,1,30,83979000,83979000,1,https://steamspy.com/genre/RPG,39.99,"2,000,000 .. 5,000,000",0.91,3500000
+f1304bc9a869,,Crusader Kings III,RPG,2,0.5,31,149970,299940,0,https://steamspy.com/genre/RPG,14.99,"0 .. 20,000",0.91,10000
+5d7bca7be478,,Chicory: A Colorful Tale,RPG,1,1,32,2097900,2097900,1,https://steamspy.com/genre/RPG,9.99,"200,000 .. 500,000",0.9,350000
+385e6fffc5df,,Shin Megami Tensei V: Vengeance,RPG,1,1,33,12597900,12597900,1,https://steamspy.com/genre/RPG,59.99,"200,000 .. 500,000",0.9,350000
+82d7cb86bb3b,,Into the Breach,RPG,4,0.25,34,3372750,13491000,1,https://steamspy.com/genre/RPG,14.99,"1,000,000 .. 2,000,000",0.9,1500000
+2ad6353d5453,,Guild Wars 2,RPG,1,1,35,0,0,0,https://steamspy.com/genre/RPG,0,"2,000,000 .. 5,000,000",0.9,3500000
+13a4a14f384a,,Slay the Princess - The Pristine Cut,RPG,3,0.3333333333333333,36,2698499.9999999995,8095499.999999999,1,https://steamspy.com/genre/RPG,17.99,"500,000 .. 1,000,000",0.9,750000
+66cdd0fd7bed,,God of War Ragnarök,RPG,1,1,37,53991000,53991000,1,https://steamspy.com/genre/RPG,59.99,"1,000,000 .. 2,000,000",0.9,1500000
+71b365a0e087,,DAVE THE DIVER,RPG,2,0.5,38,44977499.99999999,89954999.99999999,1,https://steamspy.com/genre/RPG,19.99,"5,000,000 .. 10,000,000",0.9,7500000
+60a4454144da,,Dwarf Fortress,Simulation,2,0.5,1,31489500,62979000,1,https://steamspy.com/genre/Simulation,29.99,"2,000,000 .. 5,000,000",0.93,3500000
+b1165a838c4e,,Out of the Park Baseball 17,Simulation,4,0.25,2,0,,,https://steamspy.com/genre/Simulation,,"50,000 .. 100,000",0.92,75000
+c5fb926edbe9,,The Sims Legacy Collection,Simulation,1,1,3,209790,209790,0,https://steamspy.com/genre/Simulation,9.99,"20,000 .. 50,000",0.92,35000
+e66789fba8f5,,Thief Gold,Simulation,1,1,4,783000,783000,0,https://steamspy.com/genre/Simulation,1.74,"500,000 .. 1,000,000",0.92,750000
+c541207bce7a,,I Was a Teenage Exocolonist,Simulation,2,0.5,5,2623949.9999999995,5247899.999999999,1,https://steamspy.com/genre/Simulation,24.99,"200,000 .. 500,000",0.91,350000
+64a1beaba2e3,,Against the Storm,Simulation,1,1,6,4045500,4045500,1,https://steamspy.com/genre/Simulation,8.99,"500,000 .. 1,000,000",0.91,750000
+075c1b7a817f,,Microsoft Flight Simulator 40th Anniversary Edition,Simulation,1,1,7,125979000,125979000,1,https://steamspy.com/genre/Simulation,59.99,"2,000,000 .. 5,000,000",0.91,3500000
+7124818ef795,,Satisfactory,Simulation,3,0.3333333333333333,8,83969999.99999997,251909999.99999994,1,https://steamspy.com/genre/Simulation,27.99,"10,000,000 .. 20,000,000",0.91,15000000
+f1304bc9a869,,Crusader Kings III,Simulation,2,0.5,9,149970,299940,0,https://steamspy.com/genre/Simulation,49.99,"0 .. 20,000",0.91,10000
+c94981f7a947,,VIDEOVERSE,Simulation,2,0.5,10,38970,77940,0,https://steamspy.com/genre/Simulation,12.99,"0 .. 20,000",0.9,10000
+afe22891669c,,The Sims 2 Legacy Collection,Simulation,1,1,11,1349550,1349550,1,https://steamspy.com/genre/Simulation,29.99,"50,000 .. 100,000",0.9,75000
+2bf2de8e1fe9,,Silent Hunter III,Simulation,1,1,12,2097900,2097900,1,https://steamspy.com/genre/Simulation,9.99,"200,000 .. 500,000",0.9,350000
+d56d305b2dea,,Opus Magnum,Simulation,1,1,13,4197899.999999999,4197899.999999999,1,https://steamspy.com/genre/Simulation,19.99,"200,000 .. 500,000",0.9,350000
+82d7cb86bb3b,,Into the Breach,Simulation,4,0.25,14,3372750,13491000,1,https://steamspy.com/genre/Simulation,14.99,"1,000,000 .. 2,000,000",0.9,1500000
+13a4a14f384a,,Slay the Princess - The Pristine Cut,Simulation,3,0.3333333333333333,15,2698499.9999999995,8095499.999999999,1,https://steamspy.com/genre/Simulation,17.99,"500,000 .. 1,000,000",0.9,750000
+71b365a0e087,,DAVE THE DIVER,Simulation,2,0.5,16,44977499.99999999,89954999.99999999,1,https://steamspy.com/genre/Simulation,19.99,"5,000,000 .. 10,000,000",0.9,7500000
+dff6ee721b78,,Factorio,Simulation,3,0.3333333333333333,17,52500000,157500000,1,https://steamspy.com/genre/Simulation,35,"5,000,000 .. 10,000,000",0.9,7500000
+7c867bb864db,,I Expect You To Die 3: Cog in the Machine,Simulation,1,1,18,1124549.9999999998,1124549.9999999998,1,https://steamspy.com/genre/Simulation,24.99,"50,000 .. 100,000",0.89,75000
+70b55be0a6e5,,Kynseed,Simulation,1,1,19,561600,561600,0,https://steamspy.com/genre/Simulation,6.24,"100,000 .. 200,000",0.89,150000
+74030c8f0606,,Pinball FX3,Simulation,1,1,20,10786500,10786500,1,https://steamspy.com/genre/Simulation,23.97,"500,000 .. 1,000,000",0.89,750000
+601d8838438b,,F1 2017,Simulation,2,0.5,21,0,,,https://steamspy.com/genre/Simulation,,"200,000 .. 500,000",0.89,350000
+6417547eb491,,Rise of Nations: Extended Edition,Simulation,1,1,22,17990999.999999996,17990999.999999996,1,https://steamspy.com/genre/Simulation,19.99,"1,000,000 .. 2,000,000",0.89,1500000
+2438617c3623,,Stardew Valley,Simulation,1,1,23,314790000,314790000,1,https://steamspy.com/genre/Simulation,14.99,"20,000,000 .. 50,000,000",0.89,35000000
+f5ff4a51392e,,TrainClicker,Simulation,1,1,24,59940,59940,0,https://steamspy.com/genre/Simulation,9.99,"0 .. 20,000",0.89,10000
+dd9056484759,,Combat Mission 2,Simulation,1,1,25,23700,23700,0,https://steamspy.com/genre/Simulation,3.95,"0 .. 20,000",0.89,10000
+f157e03410dc,,Mewgenics,Simulation,1,1,26,179940,179940,0,https://steamspy.com/genre/Simulation,29.99,"0 .. 20,000",0.88,10000
+2afd5d3d57ab,,Rhell,Simulation,2,0.5,27,44970,89940,0,https://steamspy.com/genre/Simulation,14.99,"0 .. 20,000",0.88,10000
+8516b58c638d,,Cabernet,Simulation,1,1,28,629550,629550,0,https://steamspy.com/genre/Simulation,13.99,"50,000 .. 100,000",0.88,75000
+b1165a838c4e,,Out of the Park Baseball 17,Sports,4,0.25,1,0,,,https://steamspy.com/genre/Sports,,"50,000 .. 100,000",0.92,75000
+46f796a545dc,,NBA 2K17,Sports,1,1,2,0,,,https://steamspy.com/genre/Sports,,"500,000 .. 1,000,000",0.9,750000
+9064ba230658,,despelote,Sports,1,1,3,44940,44940,0,https://steamspy.com/genre/Sports,7.49,"0 .. 20,000",0.89,10000
+601d8838438b,,F1 2017,Sports,2,0.5,4,0,,,https://steamspy.com/genre/Sports,,"200,000 .. 500,000",0.89,350000
+2afd5d3d57ab,,Rhell,Sports,2,0.5,5,44970,89940,0,https://steamspy.com/genre/Sports,9.74,"0 .. 20,000",0.88,10000
+79d9aecbde3f,,Lonely Mountains: Snow Riders,Sports,1,1,6,89940,89940,0,https://steamspy.com/genre/Sports,14.99,"0 .. 20,000",0.87,10000
+f9ed6c75e710,,OlliOlli World,Sports,1,1,7,224550.00000000003,224550.00000000003,0,https://steamspy.com/genre/Sports,4.99,"50,000 .. 100,000",0.87,75000
+c800ab4e555e,,F1 2019,Sports,1,1,9,0,,,https://steamspy.com/genre/Sports,,"500,000 .. 1,000,000",0.87,750000
+e8f7edd865a5,,Out of the Park Baseball 18,Sports,1,1,10,0,,,https://steamspy.com/genre/Sports,,"20,000 .. 50,000",0.86,35000
+58a4099b4ee3,,F1 2016,Sports,1,1,11,0,,,https://steamspy.com/genre/Sports,,"200,000 .. 500,000",0.86,350000
+56bd3ab0160e,,Football Manager 2019,Sports,1,1,12,0,,,https://steamspy.com/genre/Sports,,"1,000,000 .. 2,000,000",0.86,1500000
+1a870cd456c8,,F1 2021,Sports,1,1,13,0,,,https://steamspy.com/genre/Sports,,"1,000,000 .. 2,000,000",0.86,1500000
+1ea100c751c1,,DiRT Rally,Sports,1,1,14,0,,,https://steamspy.com/genre/Sports,,"2,000,000 .. 5,000,000",0.86,3500000
+cd10d2ff00b0,,Rocket League,Sports,1,1,15,0,,,https://steamspy.com/genre/Sports,,"10,000,000 .. 20,000,000",0.86,15000000
+789404fa0888,,Assetto Corsa,Sports,1,1,16,29940.000000000004,29940.000000000004,0,https://steamspy.com/genre/Sports,4.99,"0 .. 20,000",0.85,10000
+69e7bae2eec3,,Football Manager 2022,Sports,1,1,17,0,,,https://steamspy.com/genre/Sports,,"2,000,000 .. 5,000,000",0.85,3500000
+b5a4f04f824d,,Knockout League - Arcade VR Boxing,Sports,1,1,18,419789.99999999994,419789.99999999994,0,https://steamspy.com/genre/Sports,19.99,"20,000 .. 50,000",0.84,35000
+ddc8b7b97ce6,,GT Legends,Sports,1,1,19,47939.99999999999,47939.99999999999,0,https://steamspy.com/genre/Sports,7.99,"0 .. 20,000",0.84,10000
+f16ef7000606,,Sprint Vector,Sports,1,1,20,94290,94290,0,https://steamspy.com/genre/Sports,4.49,"20,000 .. 50,000",0.84,35000
+f6217fc6eb8f,,SpeedRunners,Sports,1,1,22,6279000,6279000,1,https://steamspy.com/genre/Sports,2.99,"2,000,000 .. 5,000,000",0.84,3500000
+5d016f406ae9,,Baldur's Gate 3,Strategy,3,0.3333333333333333,1,314930000,944790000,1,https://steamspy.com/genre/Strategy,44.99,"20,000,000 .. 50,000,000",0.96,35000000
+c40260ae2e82,,Sid Meier's Civilization IV,Strategy,1,1,2,17990999.999999996,17990999.999999996,1,https://steamspy.com/genre/Strategy,19.99,"1,000,000 .. 2,000,000",0.94,1500000
+933241e31f38,,Cobalt Core,Strategy,2,0.5,3,899549.9999999999,1799099.9999999998,1,https://steamspy.com/genre/Strategy,19.99,"100,000 .. 200,000",0.94,150000
+eb4f6d95d13b,,Divinity: Original Sin - Enhanced Edition,Strategy,4,0.25,4,8997750,35991000,1,https://steamspy.com/genre/Strategy,39.99,"1,000,000 .. 2,000,000",0.94,1500000
+4448a0478da5,,Company of Heroes - Legacy Edition,Strategy,2,0.5,5,38839500,77679000,1,https://steamspy.com/genre/Strategy,36.99,"2,000,000 .. 5,000,000",0.93,3500000
+9d6f08a979a3,,Divinity: Original Sin 2 - Definitive Edition,Strategy,2,0.5,8,134970,269940,0,https://steamspy.com/genre/Strategy,44.99,"0 .. 20,000",0.93,10000
+b1165a838c4e,,Out of the Park Baseball 17,Strategy,4,0.25,9,0,,,https://steamspy.com/genre/Strategy,,"50,000 .. 100,000",0.92,75000
+5f2c754f573b,,Galactic Civilizations II: Ultimate Edition,Strategy,2,0.5,10,2247750,4495500,1,https://steamspy.com/genre/Strategy,9.99,"500,000 .. 1,000,000",0.92,750000
+559989f38173,,Blue Prince,Strategy,3,0.3333333333333333,11,1259299.9999999998,3777899.9999999995,1,https://steamspy.com/genre/Strategy,17.99,"200,000 .. 500,000",0.92,350000
+9603c1057ab5,,Rome: Total War Collection,Strategy,1,1,12,0,,,https://steamspy.com/genre/Strategy,,"1,000,000 .. 2,000,000",0.92,1500000
+2c373b6b0af8,,Tumblestone,Strategy,2,0.5,13,280800,561600,0,https://steamspy.com/genre/Strategy,6.24,"100,000 .. 200,000",0.91,150000
+80f6c2cf3190,,UFO 50,Strategy,4,0.25,14,562274.9999999999,2249099.9999999995,1,https://steamspy.com/genre/Strategy,24.99,"100,000 .. 200,000",0.91,150000
+90f9c505c334,,Caves of Qud,Strategy,4,0.25,15,1574475,6297900,1,https://steamspy.com/genre/Strategy,29.99,"200,000 .. 500,000",0.91,350000
+2e31c0394006,,Sid Meier's Civilization III Complete,Strategy,1,1,21,891000,891000,0,https://steamspy.com/genre/Strategy,0.99,"1,000,000 .. 2,000,000",0.9,1500000
+26e3100697cf,,Braid,Strategy,2,0.5,22,6745500,13491000,1,https://steamspy.com/genre/Strategy,14.99,"1,000,000 .. 2,000,000",0.9,1500000
+82d7cb86bb3b,,Into the Breach,Strategy,4,0.25,23,3372750,13491000,1,https://steamspy.com/genre/Strategy,14.99,"1,000,000 .. 2,000,000",0.9,1500000
+6db943bdcaf4,,Total War: EMPIRE - Definitive Edition,Strategy,1,1,24,4491000,4491000,1,https://steamspy.com/genre/Strategy,4.99,"1,000,000 .. 2,000,000",0.9,1500000
+f5e1bbe568c2,,Sid Meier's Civilization V,Strategy,1,1,25,179940,179940,0,https://steamspy.com/genre/Strategy,29.99,"0 .. 20,000",0.9,10000
+1d16e1ba9c28,,Balatro,Strategy,2,0.5,26,15739500,31479000,1,https://steamspy.com/genre/Strategy,14.99,"2,000,000 .. 5,000,000",0.9,3500000
+dff6ee721b78,,Factorio,Strategy,3,0.3333333333333333,27,52500000,157500000,1,https://steamspy.com/genre/Strategy,35,"5,000,000 .. 10,000,000",0.9,7500000
+7b962ada5915,1091500,Cyberpunk 2077,RPG,1,1,39,1259790000,1259790000,1,https://steamspy.com/app/1091500,59.99,"20,000,000 .. 50,000,000",0.84,35000000
+c171d77814b4,292030,The Witcher 3: Wild Hunt,RPG,1,1,40,839790000,839790000,1,https://steamspy.com/app/292030,39.99,"20,000,000 .. 50,000,000",0.96,35000000
+9c52a3598850,105600,Terraria,Action,4,0.25,20,52447500,209790000,1,https://steamspy.com/app/105600,9.99,"20,000,000 .. 50,000,000",0.97,35000000
+9c52a3598850,105600,Terraria,Adventure,4,0.25,26,52447500,209790000,1,https://steamspy.com/app/105600,9.99,"20,000,000 .. 50,000,000",0.97,35000000
+9c52a3598850,105600,Terraria,Indie,4,0.25,34,52447500,209790000,1,https://steamspy.com/app/105600,9.99,"20,000,000 .. 50,000,000",0.97,35000000
+9c52a3598850,105600,Terraria,RPG,4,0.25,41,52447500,209790000,1,https://steamspy.com/app/105600,9.99,"20,000,000 .. 50,000,000",0.97,35000000
+4085787f7807,367520,Hollow Knight,Action,3,0.3333333333333333,21,22485000,67455000,1,https://steamspy.com/app/367520,14.99,"5,000,000 .. 10,000,000",0.97,7500000
+4085787f7807,367520,Hollow Knight,Adventure,3,0.3333333333333333,27,22485000,67455000,1,https://steamspy.com/app/367520,14.99,"5,000,000 .. 10,000,000",0.97,7500000
+4085787f7807,367520,Hollow Knight,Indie,3,0.3333333333333333,35,22485000,67455000,1,https://steamspy.com/app/367520,14.99,"5,000,000 .. 10,000,000",0.97,7500000
+419754bf79a1,588650,Dead Cells,Action,3,0.3333333333333333,22,37484999.99999999,112454999.99999999,1,https://steamspy.com/app/588650,24.99,"5,000,000 .. 10,000,000",0.97,7500000
+419754bf79a1,588650,Dead Cells,Adventure,3,0.3333333333333333,28,37484999.99999999,112454999.99999999,1,https://steamspy.com/app/588650,24.99,"5,000,000 .. 10,000,000",0.97,7500000
+419754bf79a1,588650,Dead Cells,Indie,3,0.3333333333333333,36,37484999.99999999,112454999.99999999,1,https://steamspy.com/app/588650,24.99,"5,000,000 .. 10,000,000",0.97,7500000
+75ba5b8b2826,504230,Celeste,Action,3,0.3333333333333333,23,13992999.999999996,41978999.99999999,1,https://steamspy.com/app/504230,19.99,"2,000,000 .. 5,000,000",0.97,3500000
+75ba5b8b2826,504230,Celeste,Adventure,3,0.3333333333333333,29,13992999.999999996,41978999.99999999,1,https://steamspy.com/app/504230,19.99,"2,000,000 .. 5,000,000",0.97,3500000
+75ba5b8b2826,504230,Celeste,Indie,3,0.3333333333333333,37,13992999.999999996,41978999.99999999,1,https://steamspy.com/app/504230,19.99,"2,000,000 .. 5,000,000",0.97,3500000
+cfb9841b3aa4,294100,RimWorld,Indie,3,0.3333333333333333,38,52485000,157455000,1,https://steamspy.com/app/294100,34.99,"5,000,000 .. 10,000,000",0.97,7500000
+cfb9841b3aa4,294100,RimWorld,Simulation,3,0.3333333333333333,29,52485000,157455000,1,https://steamspy.com/app/294100,34.99,"5,000,000 .. 10,000,000",0.97,7500000
+cfb9841b3aa4,294100,RimWorld,Strategy,3,0.3333333333333333,28,52485000,157455000,1,https://steamspy.com/app/294100,34.99,"5,000,000 .. 10,000,000",0.97,7500000
+679de5f22297,255710,Cities: Skylines,Simulation,2,0.5,30,134955000,269910000,1,https://steamspy.com/app/255710,29.99,"10,000,000 .. 20,000,000",0.92,15000000
+679de5f22297,255710,Cities: Skylines,Strategy,2,0.5,29,134955000,269910000,1,https://steamspy.com/app/255710,29.99,"10,000,000 .. 20,000,000",0.92,15000000
+447c6801aa58,227300,Euro Truck Simulator 2,Indie,2,0.5,39,89954999.99999999,179909999.99999997,1,https://steamspy.com/app/227300,19.99,"10,000,000 .. 20,000,000",0.97,15000000
+447c6801aa58,227300,Euro Truck Simulator 2,Simulation,2,0.5,31,89954999.99999999,179909999.99999997,1,https://steamspy.com/app/227300,19.99,"10,000,000 .. 20,000,000",0.97,15000000
+a7b34c28ebce,739630,Phasmophobia,Action,2,0.5,24,89954999.99999999,179909999.99999997,1,https://steamspy.com/app/739630,19.99,"10,000,000 .. 20,000,000",0.95,15000000
+a7b34c28ebce,739630,Phasmophobia,Indie,2,0.5,40,89954999.99999999,179909999.99999997,1,https://steamspy.com/app/739630,19.99,"10,000,000 .. 20,000,000",0.95,15000000
+543673e9f39f,1623730,Palworld,Action,4,0.25,25,337387500,1349550000,1,https://steamspy.com/app/1623730,29.99,"50,000,000 .. 100,000,000",0.94,75000000
+543673e9f39f,1623730,Palworld,Adventure,4,0.25,30,337387500,1349550000,1,https://steamspy.com/app/1623730,29.99,"50,000,000 .. 100,000,000",0.94,75000000
+543673e9f39f,1623730,Palworld,Indie,4,0.25,41,337387500,1349550000,1,https://steamspy.com/app/1623730,29.99,"50,000,000 .. 100,000,000",0.94,75000000
+543673e9f39f,1623730,Palworld,RPG,4,0.25,42,337387500,1349550000,1,https://steamspy.com/app/1623730,29.99,"50,000,000 .. 100,000,000",0.94,75000000
+9c2f2f3ee3ec,553850,HELLDIVERS 2,Action,1,1,26,839790000,839790000,1,https://steamspy.com/app/553850,39.99,"20,000,000 .. 50,000,000",0.76,35000000
+51382098b4bd,275850,No Man's Sky,Action,2,0.5,27,134977500,269955000,1,https://steamspy.com/app/275850,59.99,"5,000,000 .. 10,000,000",0.83,7500000
+51382098b4bd,275850,No Man's Sky,Adventure,2,0.5,31,134977500,269955000,1,https://steamspy.com/app/275850,59.99,"5,000,000 .. 10,000,000",0.83,7500000
+b2b936079bd2,814380,Sekiro: Shadows Die Twice - GOTY Edition,Action,2,0.5,28,269955000,539910000,1,https://steamspy.com/app/814380,59.99,"10,000,000 .. 20,000,000",0.95,15000000
+b2b936079bd2,814380,Sekiro: Shadows Die Twice - GOTY Edition,Adventure,2,0.5,32,269955000,539910000,1,https://steamspy.com/app/814380,59.99,"10,000,000 .. 20,000,000",0.95,15000000
+3d7a7f2e4363,374320,DARK SOULS III,Action,1,1,29,269955000,269955000,1,https://steamspy.com/app/374320,59.99,"5,000,000 .. 10,000,000",0.94,7500000
+57db119677f6,268910,Cuphead,Action,2,0.5,30,44977499.99999999,89954999.99999999,1,https://steamspy.com/app/268910,19.99,"5,000,000 .. 10,000,000",0.96,7500000
+57db119677f6,268910,Cuphead,Indie,2,0.5,42,44977499.99999999,89954999.99999999,1,https://steamspy.com/app/268910,19.99,"5,000,000 .. 10,000,000",0.96,7500000
+7acae052b213,264710,Subnautica,Adventure,2,0.5,33,67477500,134955000,1,https://steamspy.com/app/264710,29.99,"5,000,000 .. 10,000,000",0.97,7500000
+7acae052b213,264710,Subnautica,Indie,2,0.5,43,67477500,134955000,1,https://steamspy.com/app/264710,29.99,"5,000,000 .. 10,000,000",0.97,7500000
+a8ec0183b45c,892970,Valheim,Action,4,0.25,31,44977499.99999999,179909999.99999997,1,https://steamspy.com/app/892970,19.99,"10,000,000 .. 20,000,000",0.94,15000000
+a8ec0183b45c,892970,Valheim,Adventure,4,0.25,34,44977499.99999999,179909999.99999997,1,https://steamspy.com/app/892970,19.99,"10,000,000 .. 20,000,000",0.94,15000000
+a8ec0183b45c,892970,Valheim,Indie,4,0.25,44,44977499.99999999,179909999.99999997,1,https://steamspy.com/app/892970,19.99,"10,000,000 .. 20,000,000",0.94,15000000
+a8ec0183b45c,892970,Valheim,RPG,4,0.25,43,44977499.99999999,179909999.99999997,1,https://steamspy.com/app/892970,19.99,"10,000,000 .. 20,000,000",0.94,15000000
+2ed08276cee4,548430,Deep Rock Galactic,Action,1,1,32,134955000,134955000,1,https://steamspy.com/app/548430,29.99,"5,000,000 .. 10,000,000",0.97,7500000
+0454154dc9da,550,Left 4 Dead 2,Action,1,1,33,449550000,449550000,1,https://steamspy.com/app/550,9.99,"50,000,000 .. 100,000,000",0.97,75000000

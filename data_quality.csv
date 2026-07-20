@@ -1,0 +1,164 @@
+game_key,app_id,title,issue_type,issue_description,recommended_exclusion_flag
+b29cd759bf7b,,BioShock,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+167ef6f6b881,,Half-Life,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+66c0b7fc07b9,,Half-Life 2,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+c195b77515fa,,Grand Theft Auto V Legacy,Missing reference price,Revenue scenario cannot be calculated,1
+c195b77515fa,,Grand Theft Auto V Legacy,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+f698400b8814,,Portal 2,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+f698400b8814,,Portal 2,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+50bb6c32429f,,Quake,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+013cd2707e4b,,Grand Theft Auto: Vice City,Missing reference price,Revenue scenario cannot be calculated,1
+013cd2707e4b,,Grand Theft Auto: Vice City,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+4a2be44aeabe,,Hades II,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+41f66249ffc7,,ELDEN RING,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+7f2f35dbcfbc,,BioShock Infinite,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+7f2f35dbcfbc,,BioShock Infinite,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+12b38fe2c8ca,,Sektori,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+12b38fe2c8ca,,Sektori,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+2cc718eb3b30,,Unreal Tournament 2004: Editor's Choice Edition,Missing reference price,Revenue scenario cannot be calculated,1
+2cc718eb3b30,,Unreal Tournament 2004: Editor's Choice Edition,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+4448a0478da5,,Company of Heroes - Legacy Edition,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+73facf214d6a,,Grand Theft Auto III,Missing reference price,Revenue scenario cannot be calculated,1
+73facf214d6a,,Grand Theft Auto III,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+6ba4af358440,,Company of Heroes,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+8d5dbb710285,,Grand Theft Auto: San Andreas,Missing reference price,Revenue scenario cannot be calculated,1
+8d5dbb710285,,Grand Theft Auto: San Andreas,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+9e5dc0fc17c9,,Half-Life: Alyx,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+2b7e087cb42b,,God of War,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+3cc262dce7e3,,Hades,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+5d016f406ae9,,Baldur's Gate 3,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+eb4f6d95d13b,,Divinity: Original Sin - Enhanced Edition,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+6e741f31b6aa,,Red Dead Redemption 2,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+9d6f08a979a3,,Divinity: Original Sin 2 - Definitive Edition,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+9d6f08a979a3,,Divinity: Original Sin 2 - Definitive Edition,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+5b39a7c463e3,,Resident Evil Requiem,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+5b39a7c463e3,,Resident Evil Requiem,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+559989f38173,,Blue Prince,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+6b19cb3a7fe1,,Okami HD,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+c65341c0d7f2,,Metaphor: ReFantazio,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+4e796592e06c,,Street Fighter 6,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+80f6c2cf3190,,UFO 50,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+90f9c505c334,,Caves of Qud,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+15e7be4d53ae,,Mark of the Ninja,Release date anomaly,Observed release year 1987,1
+15e7be4d53ae,,Mark of the Ninja,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+1db669c01ded,,Batman: Arkham Asylum GOTY Edition,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+559371a57f1f,,Batman: Arkham City - Game of the Year Edition,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+c77582dfec22,,Dishonored,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+8fa20336a6f6,,METAL GEAR SOLID V: THE PHANTOM PAIN,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+e1d80bb6fba0,,Resident Evil 4,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+7124818ef795,,Satisfactory,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+fcd9a9090ca8,,Mission: It's Complicated,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+fcd9a9090ca8,,Mission: It's Complicated,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+023e7df320d9,,The Longest Journey,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+223a4adaeebd,,Batman: Arkham City,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+c40260ae2e82,,Sid Meier's Civilization IV,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+933241e31f38,,Cobalt Core,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+b1165a838c4e,,Out of the Park Baseball 17,Missing reference price,Revenue scenario cannot be calculated,1
+b1165a838c4e,,Out of the Park Baseball 17,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+5f2c754f573b,,Galactic Civilizations II: Ultimate Edition,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+9603c1057ab5,,Rome: Total War Collection,Missing reference price,Revenue scenario cannot be calculated,1
+9603c1057ab5,,Rome: Total War Collection,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+2c373b6b0af8,,Tumblestone,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+2e31c0394006,,Sid Meier's Civilization III Complete,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+26e3100697cf,,Braid,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+82d7cb86bb3b,,Into the Breach,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+6db943bdcaf4,,Total War: EMPIRE - Definitive Edition,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+f5e1bbe568c2,,Sid Meier's Civilization V,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+f5e1bbe568c2,,Sid Meier's Civilization V,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+1d16e1ba9c28,,Balatro,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+dff6ee721b78,,Factorio,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+84c9406adee8,,Disco Elysium - The Final Cut,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+84c9406adee8,,Disco Elysium - The Final Cut,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+2e901874a837,,Persona 5 Royal,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+2e901874a837,,Persona 5 Royal,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+81a2ea536ac8,,Mass Effect 2 (2010) Edition,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+81a2ea536ac8,,Mass Effect 2 (2010) Edition,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+4171cb5a7936,,Mass Effect 2 (2010 Edition),Missing reference price,Revenue scenario cannot be calculated,1
+4171cb5a7936,,Mass Effect 2 (2010 Edition),Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+4a1e938ad4dd,,The Elder Scrolls IV: Oblivion GOTY Edition,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+ab219e16ab35,,The Elder Scrolls V: Skyrim,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+30808097eaa2,,Chained Echoes,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+695cd1a3f9e7,,Dragon Age: Origins,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+29416f5449da,,Deus Ex: Human Revolution - Director's Cut,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+29416f5449da,,Deus Ex: Human Revolution - Director's Cut,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+a6c74d6dd672,,Fallout 3,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+b03c45c248f5,,Dragon Age: Origins - Ultimate Edition,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+51ee226f5524,,DARK SOULS II,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+444521b1358c,,Fallout 3: Game of the Year Edition,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+0a3360d1fa59,,Clair Obscur: Expedition 33,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+f1304bc9a869,,Crusader Kings III,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+f1304bc9a869,,Crusader Kings III,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+5d7bca7be478,,Chicory: A Colorful Tale,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+385e6fffc5df,,Shin Megami Tensei V: Vengeance,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+2ad6353d5453,,Guild Wars 2,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+13a4a14f384a,,Slay the Princess - The Pristine Cut,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+66cdd0fd7bed,,God of War Ragnarök,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+71b365a0e087,,DAVE THE DIVER,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+4a56bafad301,,Tetris Effect: Connected,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+60a4454144da,,Dwarf Fortress,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+71744f54654b,,Beat Saber,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+0e5c0be038be,,Undertale,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+abace6eae675,,BZZZT,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+c541207bce7a,,I Was a Teenage Exocolonist,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+128b3e7ef896,,FEZ,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+7e1d9143d6e2,,Spelunky 2,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+c94981f7a947,,VIDEOVERSE,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+c94981f7a947,,VIDEOVERSE,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+f01cf2770dde,,Tadpole Treble,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+276c4c175cb5,,OPUS: Echo of Starsong,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+07e675e3188c,,Spelunky,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+e8500ffb2582,,ANIMAL WELL,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+13e1b29505c4,,Brothers - A Tale of Two Sons,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+46f796a545dc,,NBA 2K17,Missing reference price,Revenue scenario cannot be calculated,1
+46f796a545dc,,NBA 2K17,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+9064ba230658,,despelote,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+9064ba230658,,despelote,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+601d8838438b,,F1 2017,Missing reference price,Revenue scenario cannot be calculated,1
+601d8838438b,,F1 2017,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+2afd5d3d57ab,,Rhell,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+2afd5d3d57ab,,Rhell,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+79d9aecbde3f,,Lonely Mountains: Snow Riders,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+79d9aecbde3f,,Lonely Mountains: Snow Riders,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+f9ed6c75e710,,OlliOlli World,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+c800ab4e555e,,F1 2019,Missing reference price,Revenue scenario cannot be calculated,1
+c800ab4e555e,,F1 2019,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+e8f7edd865a5,,Out of the Park Baseball 18,Missing reference price,Revenue scenario cannot be calculated,1
+e8f7edd865a5,,Out of the Park Baseball 18,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+58a4099b4ee3,,F1 2016,Missing reference price,Revenue scenario cannot be calculated,1
+58a4099b4ee3,,F1 2016,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+56bd3ab0160e,,Football Manager 2019,Missing reference price,Revenue scenario cannot be calculated,1
+56bd3ab0160e,,Football Manager 2019,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+1a870cd456c8,,F1 2021,Missing reference price,Revenue scenario cannot be calculated,1
+1a870cd456c8,,F1 2021,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+1ea100c751c1,,DiRT Rally,Missing reference price,Revenue scenario cannot be calculated,1
+1ea100c751c1,,DiRT Rally,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+cd10d2ff00b0,,Rocket League,Missing reference price,Revenue scenario cannot be calculated,1
+cd10d2ff00b0,,Rocket League,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+789404fa0888,,Assetto Corsa,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+789404fa0888,,Assetto Corsa,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+69e7bae2eec3,,Football Manager 2022,Missing reference price,Revenue scenario cannot be calculated,1
+69e7bae2eec3,,Football Manager 2022,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+b5a4f04f824d,,Knockout League - Arcade VR Boxing,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+ddc8b7b97ce6,,GT Legends,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+ddc8b7b97ce6,,GT Legends,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+f16ef7000606,,Sprint Vector,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+f6217fc6eb8f,,SpeedRunners,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+c5fb926edbe9,,The Sims Legacy Collection,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+e66789fba8f5,,Thief Gold,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+64a1beaba2e3,,Against the Storm,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+075c1b7a817f,,Microsoft Flight Simulator 40th Anniversary Edition,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+afe22891669c,,The Sims 2 Legacy Collection,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+2bf2de8e1fe9,,Silent Hunter III,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+d56d305b2dea,,Opus Magnum,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+7c867bb864db,,I Expect You To Die 3: Cog in the Machine,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+70b55be0a6e5,,Kynseed,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+74030c8f0606,,Pinball FX3,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+6417547eb491,,Rise of Nations: Extended Edition,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+2438617c3623,,Stardew Valley,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+f5ff4a51392e,,TrainClicker,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+f5ff4a51392e,,TrainClicker,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+dd9056484759,,Combat Mission 2,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+dd9056484759,,Combat Mission 2,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+f157e03410dc,,Mewgenics,Low-owner estimate,SteamSpy estimates are less reliable for small/new titles,0
+f157e03410dc,,Mewgenics,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
+8516b58c638d,,Cabernet,Missing app_id in curated sample,Use the included scraper for refreshable app_id records,0
